@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "899136748528",
+    "project_id": "pharmaflow-15ba8",
+    "storage_bucket": "pharmaflow-15ba8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899136748528:android:c1a5e770977bb68a5a7b35",
+        "android_client_info": {
+          "package_name": "com.developersbeeh.pharmaflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0UzoMfkO3LRkAn9hHo6S5Vnfo2NyaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899136748528:android:94a2e071ace810435a7b35",
+        "android_client_info": {
+          "package_name": "com.developersbeeh.pharmaflow.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0UzoMfkO3LRkAn9hHo6S5Vnfo2NyaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899136748528:android:f9af3fb38bb586235a7b35",
+        "android_client_info": {
+          "package_name": "com.developersbeeh.pharmaflow.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0UzoMfkO3LRkAn9hHo6S5Vnfo2NyaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899136748528:android:24516ab1ec45b7855a7b35",
+        "android_client_info": {
+          "package_name": "com.developersbeeh.pharmaflow.motoboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0UzoMfkO3LRkAn9hHo6S5Vnfo2NyaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899136748528-l5t2q1bn357j8cusctof72822smd71e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
